@@ -1,0 +1,14 @@
+{
+  "name": "airline-booking-management-system",
+  "version": "1.0.0",
+  "description": "A basic project for node",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "npx nodemon src/index.js"
+  },
+  "author": "Tauhid Neyaz",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
