@@ -4,11 +4,14 @@
   "description": "A basic project for node",
   "main": "index.js",
   "scripts": {
-    "dev" : "npx nodemon src/index.js"
+    "dev": "npx nodemon src/index.js"
   },
   "author": "Tauhid Neyaz",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "http-status-code": "^2.1.0",
     "nodemon": "^3.1.9"
   }
 }
